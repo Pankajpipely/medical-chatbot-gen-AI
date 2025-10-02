@@ -1,14 +1,23 @@
-sentence-transformers==2.2.2
-langchain
-flask
-pypdf
+# Core
 python-dotenv
-pinecone[grpc]
-langchain-pinecone
-langchain_community
-langchain_experimental
-transformers
-accelerate
-torch
-bitsandbytes
--e .
+flask
+
+# Pinecone (latest SDK)
+pinecone>=4.0.0
+
+# LangChain + integrations
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-pinecone>=0.1.0
+langchain-huggingface>=0.0.3
+
+# Embeddings
+sentence-transformers>=2.2.2
+transformers>=4.40.0
+torch>=2.1.0
+
+# PDF handling
+pypdf
+
+# Optional for Jupyter notebooks
+ipykernel
