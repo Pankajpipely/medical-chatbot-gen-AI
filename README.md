@@ -32,6 +32,7 @@ This project also demonstrates **AWS CI/CD deployment with GitHub Actions** for 
 ```bash
 git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
 cd Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
-![image](https://github.com/Pankajpipely/medical-chatbot-gen-AI/blob/main/Screenshot%202025-10-02%20175332.png)
+![Medical Chatbot Screenshot]()
+
 
 
