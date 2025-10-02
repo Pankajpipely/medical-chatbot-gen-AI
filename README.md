@@ -4,7 +4,7 @@ A complete end-to-end **Medical Chatbot** built using **Large Language Models (L
 This project also demonstrates **AWS CI/CD deployment with GitHub Actions** for scalable cloud deployment.
 
 ---
-
+![image_alt](https://github.com/Pankajpipely/medical-chatbot-gen-AI/blob/main/Screenshot%202025-10-02%20175332.png)
 ## 🚀 Features
 - Upload & process medical documents (PDFs).
 - Chunk text and store embeddings in Pinecone vector database.
@@ -32,7 +32,7 @@ This project also demonstrates **AWS CI/CD deployment with GitHub Actions** for 
 ```bash
 git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
 cd Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
-![image_alt](https://github.com/Pankajpipely/medical-chatbot-gen-AI/blob/main/Screenshot%202025-10-02%20175332.png)
+
 
 
 
